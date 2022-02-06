@@ -14,11 +14,12 @@ main.py - programm
 2) choose percentage in config.json
 3) wait for your best price
 -----------------------------
-#config.json
+#config.json\
 "TOKEN" - YOUR TOKEN WITH TELEGRAM BOT\
 "id" - your id telegram\
 "bot_settings" - don't touch\
 "percentage" - must be with '-'
+
 -----------------------------
 
 Developer:\
