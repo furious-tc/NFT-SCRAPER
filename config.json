@@ -1,0 +1,8 @@
+[
+  {
+    "TOKEN": "bot_telegram_token",
+    "id": ["your_telegram_id"],
+    "bot_settings": [],
+    "percentage": -10
+  }
+]
